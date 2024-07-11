@@ -1,0 +1,33 @@
+{
+  "info": {
+    "name": "postmanTest",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "bruno",
+      "event": []
+    },
+    {
+      "name": "PostRequest",
+      "event": [],
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "http://postmantest.us-e2.cloudhub.io/link",
+          "host": [
+            "postmantest",
+            "us-e2",
+            "cloudhub",
+            "io"
+          ],
+          "path": [],
+          "query": [],
+          "variable": []
+        }
+      }
+    }
+  ],
+  "variable": []
+}
